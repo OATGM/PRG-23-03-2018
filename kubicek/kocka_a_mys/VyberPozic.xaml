@@ -1,0 +1,21 @@
+﻿<Window x:Class="kocka_a_mys.VyberPozic"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kocka_a_mys"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize"
+        Title="VyberPozic" Height="300" Width="300">
+    <StackPanel Orientation="Vertical">
+        <Label Content="X pozice kočky"></Label>
+        <TextBox x:Name="XKockaText"></TextBox>
+        <Label Content="Y pozice kočky"></Label>
+        <TextBox x:Name="YKockaText"></TextBox>
+        <Label Content="X pozice myši"></Label>
+        <TextBox x:Name="XMysText"></TextBox>
+        <Label Content="Y pozice myši"></Label>
+        <TextBox x:Name="YMysText"></TextBox>
+        <Button Content="Začít hru" Height="125" Click="Button_Click"></Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+D:\c#_apps\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csprojResolveAssemblyReference.cache
+D:\c#_apps\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe.config
+D:\c#_apps\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe
+D:\c#_apps\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.pdb
+D:\c#_apps\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.exe
+D:\c#_apps\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.pdb

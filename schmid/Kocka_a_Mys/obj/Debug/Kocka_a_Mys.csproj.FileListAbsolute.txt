@@ -1,0 +1,7 @@
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\bin\Debug\Kocka_a_Mys.exe.config
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\bin\Debug\Kocka_a_Mys.exe
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\bin\Debug\Kocka_a_Mys.pdb
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\obj\Debug\Kocka_a_Mys.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\obj\Debug\Kocka_a_Mys.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\obj\Debug\Kocka_a_Mys.exe
+C:\Users\Daniel\Disk Google\Microsoft Visual Studio Projects 2016_17\Projects\Kocka_a_Mys\Kocka_a_Mys\obj\Debug\Kocka_a_Mys.pdb

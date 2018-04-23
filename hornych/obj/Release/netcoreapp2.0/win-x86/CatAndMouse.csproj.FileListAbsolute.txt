@@ -1,0 +1,13 @@
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/hostpolicy.dll
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/hostfxr.dll
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.exe
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.deps.json
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.runtimeconfig.json
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.runtimeconfig.dev.json
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.dll
+/media/lukin/Data/CatAndMouse/bin/Release/netcoreapp2.0/win-x86/CatAndMouse.pdb
+/media/lukin/Data/CatAndMouse/obj/Release/netcoreapp2.0/win-x86/CatAndMouse.csproj.CoreCompileInputs.cache
+/media/lukin/Data/CatAndMouse/obj/Release/netcoreapp2.0/win-x86/CatAndMouse.AssemblyInfoInputs.cache
+/media/lukin/Data/CatAndMouse/obj/Release/netcoreapp2.0/win-x86/CatAndMouse.AssemblyInfo.cs
+/media/lukin/Data/CatAndMouse/obj/Release/netcoreapp2.0/win-x86/CatAndMouse.dll
+/media/lukin/Data/CatAndMouse/obj/Release/netcoreapp2.0/win-x86/CatAndMouse.pdb

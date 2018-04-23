@@ -1,0 +1,11 @@
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe.config
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.pdb
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csprojResolveAssemblyReference.cache
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.Form1.resources
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.Properties.Resources.resources
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csproj.GenerateResource.Cache
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csproj.CoreCompileInputs.cache
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.exe
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.pdb
+C:\Users\misacek\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.Form2.resources

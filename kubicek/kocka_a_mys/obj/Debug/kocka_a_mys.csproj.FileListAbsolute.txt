@@ -1,0 +1,17 @@
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe.config
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.pdb
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csprojResolveAssemblyReference.cache
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\MainWindow.g.cs
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\App.g.cs
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys_MarkupCompile.cache
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys_MarkupCompile.lref
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\MainWindow.baml
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.g.resources
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.Properties.Resources.resources
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csproj.GenerateResource.Cache
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csproj.CoreCompileInputs.cache
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.exe
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.pdb
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\VyberPozic.g.cs
+C:\Users\Petr Kubíček\source\repos\kocka_a_mys\kocka_a_mys\obj\Debug\VyberPozic.baml

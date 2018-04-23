@@ -1,0 +1,10 @@
+/media/lukin/Data/CatAndMouse/bin/Debug/netcoreapp2.0/CatAndMouse.deps.json
+/media/lukin/Data/CatAndMouse/bin/Debug/netcoreapp2.0/CatAndMouse.runtimeconfig.json
+/media/lukin/Data/CatAndMouse/bin/Debug/netcoreapp2.0/CatAndMouse.runtimeconfig.dev.json
+/media/lukin/Data/CatAndMouse/bin/Debug/netcoreapp2.0/CatAndMouse.dll
+/media/lukin/Data/CatAndMouse/bin/Debug/netcoreapp2.0/CatAndMouse.pdb
+/media/lukin/Data/CatAndMouse/obj/Debug/netcoreapp2.0/CatAndMouse.csproj.CoreCompileInputs.cache
+/media/lukin/Data/CatAndMouse/obj/Debug/netcoreapp2.0/CatAndMouse.AssemblyInfoInputs.cache
+/media/lukin/Data/CatAndMouse/obj/Debug/netcoreapp2.0/CatAndMouse.AssemblyInfo.cs
+/media/lukin/Data/CatAndMouse/obj/Debug/netcoreapp2.0/CatAndMouse.dll
+/media/lukin/Data/CatAndMouse/obj/Debug/netcoreapp2.0/CatAndMouse.pdb

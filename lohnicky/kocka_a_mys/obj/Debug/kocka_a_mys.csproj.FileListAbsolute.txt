@@ -1,0 +1,6 @@
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.csprojResolveAssemblyReference.cache
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe.config
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.exe
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\bin\Debug\kocka_a_mys.pdb
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.exe
+c:\users\dlohn\documents\visual studio 2017\Projects\kocka_a_mys\kocka_a_mys\obj\Debug\kocka_a_mys.pdb

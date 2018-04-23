@@ -1,0 +1,7 @@
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\bin\Debug\mocka a mys.exe.config
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\bin\Debug\mocka a mys.exe
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\bin\Debug\mocka a mys.pdb
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\obj\Debug\mocka a mys.csprojResolveAssemblyReference.cache
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\obj\Debug\mocka a mys.csproj.CoreCompileInputs.cache
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\obj\Debug\mocka a mys.exe
+C:\Users\dadal\source\repos\mocka a mys\mocka a mys\obj\Debug\mocka a mys.pdb
